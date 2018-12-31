@@ -1,0 +1,53 @@
+﻿  GeneticBalancer.cpp
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(316): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(329): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(378): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(380): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(386): warning C4018: '>': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(413): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\geneticbalancer.cpp(467): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  main.cpp
+  LineBalancingTester.cpp
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(52): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(57): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(155): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mickl\documents\visual studio 2017\projects\linebalancer\linebalancer\linebalancingtester.cpp(199): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  LineBalancer.vcxproj -> C:\Users\mickl\documents\visual studio 2017\Projects\LineBalancer\Debug\LineBalancer.exe
+  LineBalancer.vcxproj -> C:\Users\mickl\documents\visual studio 2017\Projects\LineBalancer\Debug\LineBalancer.pdb (Partial PDB)
