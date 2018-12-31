@@ -1,5 +1,5 @@
 # genetic-grouping-algorightm
-Genetic grouping algorithm for assembly line balancing. Developed as master's work.
+Genetic grouping algorithm for assembly line balancing. Developed as the Master's work.
 
 Developed using SFML library (https://www.sfml-dev.org/)
 
